@@ -6,6 +6,8 @@
 
   public partial class ReactiveMouseWindow : Form
   {
+    private const string MsftQuoteUrl = "http://www.nasdaq.com/quotedll/quote.dll?page=dynamic&mode=data&&selected=MSFT";
+
     public ReactiveMouseWindow()
     {
       InitializeComponent();
