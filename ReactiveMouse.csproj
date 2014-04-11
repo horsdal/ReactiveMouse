@@ -65,7 +65,6 @@
       <DependentUpon>ReactiveMouseWindow.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
-    <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="ReactiveMouseWindow.resx">
       <DependentUpon>ReactiveMouseWindow.cs</DependentUpon>
     </EmbeddedResource>
